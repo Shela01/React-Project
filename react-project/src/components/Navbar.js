@@ -1,6 +1,6 @@
 export default function Navbar(){
     return (
-    <nav className="">
+    <nav className="nav">
         <a href = "/" className = "site-title">
         Little Flower ECD Center
         </a>
